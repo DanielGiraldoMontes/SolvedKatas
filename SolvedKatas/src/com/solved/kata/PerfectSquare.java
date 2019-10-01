@@ -12,9 +12,7 @@ package com.solved.kata;
 public class PerfectSquare {
 
     public static long findNextSquare(long sq) {
-
-        Double square = Math.sqrt(sq);
-
-        return 0;
+        long root = (long) Math.sqrt(sq);
+        return root * root == sq ? (root + 1) * (root + 1) : -1;
     }
 }

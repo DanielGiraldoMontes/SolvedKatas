@@ -1,6 +1,5 @@
 package com.solved.kata.test;
 
-
 import com.solved.kata.Kata;
 
 /*
