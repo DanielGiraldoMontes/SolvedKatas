@@ -19,12 +19,12 @@ public class AlphabeticalAdition {
             index += (alphabet.indexOf(letter) + 1);
         }
 
-        while (index > 26) {
-            index -= 26;
-        }
-
         if (index == 0) {
             return "z";
+        }
+
+        while (index > 26) {
+            index -= 26;
         }
 
         return alphabet.charAt(index - 1) + "";
