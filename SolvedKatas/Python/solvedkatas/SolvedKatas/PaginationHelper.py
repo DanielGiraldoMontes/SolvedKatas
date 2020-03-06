@@ -1,11 +1,4 @@
-# TODO: complete this class
-import unittest as Test
-
-
 class PaginationHelper:
-
-    collection = []
-    items_per_page = 0
 
     # The constructor takes in an array of items and a integer indicating
     # how many items fit within a single page
@@ -13,6 +6,9 @@ class PaginationHelper:
         # returns the number of items within the entire collection
         self.collection = collection
         self.items_per_page = items_per_page
+        self.pages = 0
+        self.total = 0
+        self.num = None
 
     def item_count(self):
         # returns the number of pages
@@ -31,8 +27,8 @@ class PaginationHelper:
         self.pages = self.page_count()
         self.total = self.item_count()
 
-        if ((page_index + 1) <= self.pages and page_index > -1 and self.total > 0):
-            if ((page_index + 1) == self.pages):
+        if (page_index + 1) <= self.pages and page_index > -1 and self.total > 0:
+            if (page_index + 1) == self.pages:
                 self.num = (self.total % self.items_per_page)
             else:
                 self.num = self.items_per_page
@@ -40,4 +36,5 @@ class PaginationHelper:
         return self.num
 
     def page_index(self, item_index):
-        return -1 if (item_index > self.item_count() or item_index < 0 or self.item_count() == 0) else int(item_index / self.items_per_page)
+        return -1 if ((self.item_count() - 1) < item_index < 0 or self.item_count() == 0) \
+            else (item_index + 1) // self.items_per_page
