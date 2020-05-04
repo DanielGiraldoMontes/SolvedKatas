@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../resources/cdcbg_docker/mongodb_data/.idea/mongodb_data.iml" filepath="$PROJECT_DIR$/../../../../resources/cdcbg_docker/mongodb_data/.idea/mongodb_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/solvedkatas.iml" filepath="$PROJECT_DIR$/.idea/solvedkatas.iml" />
+    </modules>
+  </component>
+</project>

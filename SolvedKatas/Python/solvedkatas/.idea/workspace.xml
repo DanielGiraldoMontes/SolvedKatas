@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93afbb95-98ac-40b3-a06c-9fb552d04b81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1Yco5zJaWhGcIVosaIgM7c2TxJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../resources/cdcbg_docker/mongodb_data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BBVA\APX\GIT\SolvedKatas\SolvedKatas\Python\solvedkatas\SolvedKatasTest" />
+      <recent name="D:\BBVA\APX\GIT\SolvedKatas\SolvedKatas\Python\solvedkatas\SolvedKatas" />
+      <recent name="D:\BBVA\APX\GIT\SolvedKatas\SolvedKatas\Python\solvedkatas\KatasTest" />
+      <recent name="D:\BBVA\APX\GIT\SolvedKatas\SolvedKatas\Python\solvedkatas\Katas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for SolvedKatasTest.NarcissisticNumberTest.NarcissisticNumberTest">
+    <configuration name="Unittests for KatasTest.PaginationHelperTest.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;KatasTest.PaginationHelperTest.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for PaginationHelperTest.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PaginationHelperTest.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SolvedKatasTest.NarcissisticNumberTest.NarcissisticNumberTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SolvedKatasTest.NarcissisticNumberTest.NarcissisticNumberTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SolvedKatasTest.PaginationHelperTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SolvedKatasTest.PaginationHelperTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SolvedKatasTest.PaginationHelperTest.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SolvedKatasTest.PaginationHelperTest.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for SolvedKatasTest.PaginationHelperTest.MyTestCase.test_page_item_count" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;SolvedKatasTest.PaginationHelperTest.MyTestCase.test_page_item_count&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in PaginationHelperTest.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dgiraldo\Desktop\SolvedKatas\Python\solvedkatas\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in PaginationHelperTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="solvedkatas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SolvedKatasTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in PaginationHelperTest.py" />
+      <item itemvalue="Python tests.Unittests for SolvedKatasTest.PaginationHelperTest.MyTestCase" />
+      <item itemvalue="Python tests.Unittests for SolvedKatasTest.PaginationHelperTest.MyTestCase.test_page_item_count" />
+      <item itemvalue="Python tests.Unittests for SolvedKatasTest.PaginationHelperTest" />
+      <item itemvalue="Python tests.Unittests for SolvedKatasTest.NarcissisticNumberTest.NarcissisticNumberTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for SolvedKatasTest.NarcissisticNumberTest.NarcissisticNumberTest" />
+        <item itemvalue="Python tests.Unittests for KatasTest.PaginationHelperTest.MyTestCase" />
+        <item itemvalue="Python tests.Unittests for SolvedKatasTest.PaginationHelperTest.MyTestCase.test_page_item_count" />
+        <item itemvalue="Python tests.Unittests for SolvedKatasTest.PaginationHelperTest.MyTestCase" />
+        <item itemvalue="Python tests.Unittests for SolvedKatasTest.PaginationHelperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93afbb95-98ac-40b3-a06c-9fb552d04b81" name="Default Changelist" comment="" />
+      <created>1583251063678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583251063678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1682" y="17" key="#Unittests_for_PaginationHelperTest.PaginationHelperTest" timestamp="1583265415087">
+      <screen x="1280" y="0" width="1366" height="738" />
+    </state>
+    <state x="1682" y="17" key="#Unittests_for_PaginationHelperTest.PaginationHelperTest/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583265415087" />
+    <state x="359" y="126" key="#Unittests_in_PaginationHelperTest.py" timestamp="1583255209180">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="359" y="126" key="#Unittests_in_PaginationHelperTest.py/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583255209180" />
+    <state x="1682" y="0" key="#Unittests_in_SolvedKatasTest" timestamp="1583265252506">
+      <screen x="1280" y="0" width="1366" height="738" />
+    </state>
+    <state x="1682" y="0" key="#Unittests_in_SolvedKatasTest/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583265252506" />
+    <state x="1417" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583265313114">
+      <screen x="1280" y="0" width="1366" height="738" />
+    </state>
+    <state x="1417" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583265313114" />
+    <state x="390" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583864982181">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="390" y="230" key="#com.intellij.fileTypes.FileTypeChooser/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583864982181" />
+    <state x="1696" y="171" key="#com.intellij.fileTypes.FileTypeChooser/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583864549765" />
+    <state x="294" y="91" key="CommitChangelistDialog2" timestamp="1583444177832">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="294" y="91" key="CommitChangelistDialog2/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583444177832" />
+    <state x="1697" y="130" key="EnvironmentVariablesDialog" timestamp="1583265204808">
+      <screen x="1280" y="0" width="1366" height="738" />
+    </state>
+    <state x="1697" y="130" key="EnvironmentVariablesDialog/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583265204808" />
+    <state x="1743" y="123" key="FileChooserDialogImpl" timestamp="1583438477763">
+      <screen x="1280" y="0" width="1366" height="738" />
+    </state>
+    <state x="1743" y="123" key="FileChooserDialogImpl/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583438477763" />
+    <state width="1259" height="302" key="GridCell.Tab.0.bottom" timestamp="1583867211869">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1259" height="302" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583867211869" />
+    <state width="1259" height="302" key="GridCell.Tab.0.bottom/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583866009413" />
+    <state width="1345" height="149" key="GridCell.Tab.0.bottom/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267477665" />
+    <state width="1259" height="302" key="GridCell.Tab.0.center" timestamp="1583867211868">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1259" height="302" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583867211868" />
+    <state width="1259" height="302" key="GridCell.Tab.0.center/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583866009413" />
+    <state width="1345" height="149" key="GridCell.Tab.0.center/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267477663" />
+    <state width="1259" height="302" key="GridCell.Tab.0.left" timestamp="1583867211868">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1259" height="302" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583867211868" />
+    <state width="1259" height="302" key="GridCell.Tab.0.left/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583866009413" />
+    <state width="1345" height="149" key="GridCell.Tab.0.left/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267477663" />
+    <state width="1259" height="302" key="GridCell.Tab.0.right" timestamp="1583867211868">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1259" height="302" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583867211868" />
+    <state width="1259" height="302" key="GridCell.Tab.0.right/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583866009413" />
+    <state width="1345" height="149" key="GridCell.Tab.0.right/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267477664" />
+    <state width="1345" height="104" key="GridCell.Tab.1.bottom" timestamp="1583271138372">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1345" height="104" key="GridCell.Tab.1.bottom/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583271138372" />
+    <state width="1345" height="104" key="GridCell.Tab.1.bottom/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267405496" />
+    <state width="1345" height="104" key="GridCell.Tab.1.center" timestamp="1583271138372">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1345" height="104" key="GridCell.Tab.1.center/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583271138372" />
+    <state width="1345" height="104" key="GridCell.Tab.1.center/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267405496" />
+    <state width="1345" height="104" key="GridCell.Tab.1.left" timestamp="1583271138372">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1345" height="104" key="GridCell.Tab.1.left/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583271138372" />
+    <state width="1345" height="104" key="GridCell.Tab.1.left/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267405496" />
+    <state width="1345" height="104" key="GridCell.Tab.1.right" timestamp="1583271138372">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1345" height="104" key="GridCell.Tab.1.right/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583271138372" />
+    <state width="1345" height="104" key="GridCell.Tab.1.right/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583267405496" />
+    <state x="1464" y="11" key="SettingsEditor" timestamp="1583438438733">
+      <screen x="1280" y="0" width="1366" height="738" />
+    </state>
+    <state x="1464" y="11" key="SettingsEditor/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583438438733" />
+    <state x="341" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1584021861545">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="341" y="320" key="com.intellij.ide.util.TipDialog/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1584021861545" />
+    <state x="1644" y="238" key="com.intellij.ide.util.TipDialog/1280.0.1366.738/0.0.1280.994@1280.0.1366.738" timestamp="1583864500685" />
+    <state x="271" y="42" width="737" height="909" key="find.popup" timestamp="1583865980235">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="271" y="42" width="737" height="909" key="find.popup/1280.0.1366.738/0.0.1280.994@0.0.1280.994" timestamp="1583865980235" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SolvedKatasTest/PaginationHelperTest.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
