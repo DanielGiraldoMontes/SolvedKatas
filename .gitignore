@@ -719,6 +719,7 @@ dmypy.json
 .pyre/
 
 ### VisualStudioCode ###
+SolvedKatas/Java/solvedkatas/.vscode/*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
